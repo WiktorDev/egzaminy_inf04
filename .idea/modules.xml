@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/czerwiec_2025/console/console.iml" filepath="$PROJECT_DIR$/czerwiec_2025/console/console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czerwiec_2025/desktop/desktop.iml" filepath="$PROJECT_DIR$/czerwiec_2025/desktop/desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egzamin_inf04.iml" filepath="$PROJECT_DIR$/egzamin_inf04.iml" />
+    </modules>
+  </component>
+</project>
