@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/czerwiec_2025/console/console.iml" filepath="$PROJECT_DIR$/czerwiec_2025/console/console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/styczen_2025/console2/console2.iml" filepath="$PROJECT_DIR$/styczen_2025/console2/console2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czerwiec_2024/console3/console3.iml" filepath="$PROJECT_DIR$/czerwiec_2024/console3/console3.iml" />
       <module fileurl="file://$PROJECT_DIR$/czerwiec_2025/desktop/desktop.iml" filepath="$PROJECT_DIR$/czerwiec_2025/desktop/desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/egzamin_inf04.iml" filepath="$PROJECT_DIR$/egzamin_inf04.iml" />
     </modules>
