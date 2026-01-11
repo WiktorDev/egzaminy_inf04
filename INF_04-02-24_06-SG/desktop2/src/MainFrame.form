@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="MainFrame">
+  <grid id="27dc6" binding="jpanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="1000" height="300"/>
+    </constraints>
+    <properties>
+      <background color="-13726889"/>
+      <font name="Inter"/>
+      <minimumSize width="1000" height="300"/>
+      <preferredSize width="1000" height="300"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="7884a" class="javax.swing.JButton" binding="previousButton">
+        <constraints/>
+        <properties>
+          <icon value="obraz3.png"/>
+          <margin top="0" left="0" bottom="0" right="0"/>
+          <maximumSize width="100" height="76"/>
+          <minimumSize width="100" height="76"/>
+          <preferredSize width="100" height="76"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <grid id="8fa7e" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints/>
+        <properties>
+          <background color="-13726889"/>
+          <minimumSize width="700" height="253"/>
+          <preferredSize width="700" height="253"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="235b8" layout-manager="GridLayoutManager" row-count="2" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints/>
+            <properties>
+              <background color="-13726889"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="4db64" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <autoscrolls value="false"/>
+                  <background color="-13726889"/>
+                  <icon value="obraz.png"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="4f983" class="javax.swing.JLabel" binding="albumDownloadCount">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-10364648"/>
+                  <text value="11000102"/>
+                </properties>
+              </component>
+              <component id="49e84" class="javax.swing.JButton" binding="downloadButton">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-10364648"/>
+                  <font size="20" style="1"/>
+                  <label value="Pobierz"/>
+                  <text value="Pobierz"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <vspacer id="d47d2">
+            <constraints/>
+          </vspacer>
+          <grid id="d4ca1" layout-manager="GridLayoutManager" row-count="4" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints/>
+            <properties>
+              <background color="-13726889"/>
+              <preferredSize width="400" height="149"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="da46e" class="javax.swing.JLabel" binding="albumArtist">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font name="Liberation Sans Narrow" size="45"/>
+                  <foreground color="-1"/>
+                  <text value="Gorillaz"/>
+                </properties>
+              </component>
+              <hspacer id="32da2">
+                <constraints>
+                  <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </hspacer>
+              <component id="a46b1" class="javax.swing.JLabel" binding="albumName">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="30" style="2"/>
+                  <foreground color="-1"/>
+                  <text value="&quot;The Now Now&quot;"/>
+                </properties>
+              </component>
+              <component id="36ac0" class="javax.swing.JLabel" binding="albumSongsNumber">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-10364648"/>
+                  <font size="20"/>
+                  <foreground color="-10364648"/>
+                  <text value="11 utworów"/>
+                </properties>
+              </component>
+              <component id="4446e" class="javax.swing.JLabel" binding="albumYear">
+                <constraints>
+                  <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font size="20"/>
+                  <foreground color="-10364648"/>
+                  <text value="2018"/>
+                </properties>
+              </component>
+              <vspacer id="4854c">
+                <constraints>
+                  <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false">
+                    <minimum-size width="-1" height="50"/>
+                    <preferred-size width="-1" height="50"/>
+                    <maximum-size width="-1" height="50"/>
+                  </grid>
+                </constraints>
+              </vspacer>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <component id="b51fa" class="javax.swing.JButton" binding="nextButton">
+        <constraints/>
+        <properties>
+          <icon value="obraz2.png"/>
+          <maximumSize width="100" height="76"/>
+          <minimumSize width="100" height="76"/>
+          <preferredSize width="100" height="76"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
