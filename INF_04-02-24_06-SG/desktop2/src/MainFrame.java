@@ -8,6 +8,7 @@ import java.util.List;
 
 public class MainFrame extends JFrame {
     private JPanel contentPane;
+    private JLabel encryptedText;
     private JLabel image1;
     private JLabel image2;
     private JButton previousButton;
