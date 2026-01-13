@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.nio.file.Files;
@@ -8,7 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainFrame extends JFrame {
-    private JPanel jpanel;
+    private JPanel contentPane;
+    private JLabel image1;
+    private JLabel image2;
     private JButton previousButton;
     private JButton nextButton;
     private JButton downloadButton;
@@ -27,7 +28,7 @@ public class MainFrame extends JFrame {
 
         setTitle("MojeDźwięki, Wykonał 00000000000");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setContentPane(jpanel);
+        setContentPane(contentPane);
         setVisible(true);
         pack();
         setResizable(false);
