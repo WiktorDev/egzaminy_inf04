@@ -8,6 +8,7 @@ function App() {
     console.log(event.target.name.value)
     console.log(courses[event.target.courseNumber.value] ?? 'Nieprawidłowy numer kursu');
   }
+
   return (
     <div className="container">
       <h2>Liczba kursów: {courses.length}</h2>
