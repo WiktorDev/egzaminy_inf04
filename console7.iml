@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="console7" external.linked.project.path="$MODULE_DIR$/INF_04-02-25_06-SG/console7" external.root.project.path="$MODULE_DIR$/INF_04-02-25_06-SG/console7" external.system.id="GRADLE" external.system.module.group="com.example.inf04" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/INF_04-02-25_06-SG/console7">
+      <excludeFolder url="file://$MODULE_DIR$/INF_04-02-25_06-SG/console7/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/INF_04-02-25_06-SG/console7/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="17 (2)" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

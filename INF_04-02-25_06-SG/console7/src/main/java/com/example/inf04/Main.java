@@ -1,3 +1,5 @@
+package com.example.inf04;
+
 import java.util.Scanner;
 
 public class Main {
