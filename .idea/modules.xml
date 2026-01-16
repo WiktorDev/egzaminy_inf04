@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/INF_04-01-25_06-SG/console/console.iml" filepath="$PROJECT_DIR$/INF_04-01-25_06-SG/console/console.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-01-21_06-SG/console10/console10.iml" filepath="$PROJECT_DIR$/INF_04-01-21_06-SG/console10/console10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INF_04-01-23_01-SG/console11/console11.iml" filepath="$PROJECT_DIR$/INF_04-01-23_01-SG/console11/console11.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-01-25_01-SG/console2/console2.iml" filepath="$PROJECT_DIR$/INF_04-01-25_01-SG/console2/console2.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-01-24_06-SG/console3/console3.iml" filepath="$PROJECT_DIR$/INF_04-01-24_06-SG/console3/console3.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-02-24_06-SG/console4/console4.iml" filepath="$PROJECT_DIR$/INF_04-02-24_06-SG/console4/console4.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/INF_04-02-24_06-SG/desktop2/desktop2.iml" filepath="$PROJECT_DIR$/INF_04-02-24_06-SG/desktop2/desktop2.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-01-24_01-SG/desktop3/desktop3.iml" filepath="$PROJECT_DIR$/INF_04-01-24_01-SG/desktop3/desktop3.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-02-25_06-SG/desktop4/desktop4.iml" filepath="$PROJECT_DIR$/INF_04-02-25_06-SG/desktop4/desktop4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INF_04-01-23_01-SG/desktop5/desktop5.iml" filepath="$PROJECT_DIR$/INF_04-01-23_01-SG/desktop5/desktop5.iml" />
       <module fileurl="file://$PROJECT_DIR$/egzamin_inf04.iml" filepath="$PROJECT_DIR$/egzamin_inf04.iml" />
     </modules>
   </component>
