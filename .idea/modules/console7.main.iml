@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../INF_04-02-25_06-SG/console7/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../INF_04-02-25_06-SG/console7/src/main/resources" type="java-resource" />
     </content>
-    <orderEntry type="jdk" jdkName="17 (2)" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

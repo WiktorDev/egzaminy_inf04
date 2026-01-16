@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/INF_04-02-25_06-SG/console7/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/INF_04-02-25_06-SG/console7/build" />
     </content>
-    <orderEntry type="jdk" jdkName="17 (2)" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
