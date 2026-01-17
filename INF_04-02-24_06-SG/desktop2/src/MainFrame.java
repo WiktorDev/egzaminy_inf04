@@ -22,6 +22,7 @@ public class MainFrame extends JFrame {
 
     private final List<Album> albums = new ArrayList<>();
     private int currentAlbumIndex;
+    private JPanel panel;
 
     public MainFrame() {
         this.loadData();
