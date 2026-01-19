@@ -10,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/INF_04-02-23_06-SG/console14/console14.iml" filepath="$PROJECT_DIR$/INF_04-02-23_06-SG/console14/console14.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-02-24_01-SG/console15/console15.iml" filepath="$PROJECT_DIR$/INF_04-02-24_01-SG/console15/console15.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-02-25_01-SG/console16/console16.iml" filepath="$PROJECT_DIR$/INF_04-02-25_01-SG/console16/console16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/console17.iml" filepath="$PROJECT_DIR$/console17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/console17.main.iml" filepath="$PROJECT_DIR$/.idea/modules/console17.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/console17.test.iml" filepath="$PROJECT_DIR$/.idea/modules/console17.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-01-25_01-SG/console2/console2.iml" filepath="$PROJECT_DIR$/INF_04-01-25_01-SG/console2/console2.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-01-24_06-SG/console3/console3.iml" filepath="$PROJECT_DIR$/INF_04-01-24_06-SG/console3/console3.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-02-24_06-SG/console4/console4.iml" filepath="$PROJECT_DIR$/INF_04-02-24_06-SG/console4/console4.iml" />
@@ -27,7 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/INF_04-01-23_01-SG/desktop5/desktop5.iml" filepath="$PROJECT_DIR$/INF_04-01-23_01-SG/desktop5/desktop5.iml" />
       <module fileurl="file://$PROJECT_DIR$/INF_04-01-23_06-SG/desktop6/desktop6.iml" filepath="$PROJECT_DIR$/INF_04-01-23_06-SG/desktop6/desktop6.iml" />
       <module fileurl="file://$PROJECT_DIR$/egzamin_inf04.iml" filepath="$PROJECT_DIR$/egzamin_inf04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
     </modules>
   </component>
 </project>

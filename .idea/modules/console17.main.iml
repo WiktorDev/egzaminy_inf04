@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="console17:main" external.linked.project.path="$MODULE_DIR$/../../INF_04-01-26_01/console17" external.root.project.path="$MODULE_DIR$/../../INF_04-01-26_01/console17" external.system.id="GRADLE" external.system.module.group="com.example.inf04" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../INF_04-01-26_01/console17/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../INF_04-01-26_01/console17/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../INF_04-01-26_01/console17/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../INF_04-01-26_01/console17/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

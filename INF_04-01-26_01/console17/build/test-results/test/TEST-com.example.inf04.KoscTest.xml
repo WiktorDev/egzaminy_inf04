@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.inf04.KoscTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-19T09:34:11.265Z" hostname="DESKTOP-KFBRG1T" time="0.024">
+  <properties/>
+  <testcase name="drawnValueCannotBeChangedIfIsNotAvailable()" classname="com.example.inf04.KoscTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
